@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+#body-header{
+     background-image: url(C:\Users\HRITHIK\Desktop\Newfolder\Basics\macbook_mouse.jpg);
+    background-position:centre;
+    background-size:cover;
+    height:65vh;
+}
